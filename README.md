@@ -83,7 +83,7 @@ horizon만큼 반복적으로 예측해 이어 붙였습니다.
 모듈별 분리된 예측 결과를 다시 하나로 합쳐
 같은 시각의 ActivePower들을 모두 합산했습니다.
 
----
+
 <h2>🧩 5. Submission Format (merged_activePower_1hour.py)</h2>
 
 
